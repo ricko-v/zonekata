@@ -1,0 +1,70 @@
+html,body, #app {
+  width: 100%;
+  background: #023;
+  height: 100%;
+}
+
+.cari {
+  min-width:100% !important;      
+  border: none !important;       
+  font-family: 'Sofia', cursive;
+  font-size: 10px;
+}
+
+.loading {
+  height: 100%;
+  width: 100%;
+  background: #023;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Sofia', cursive;
+}
+
+.loading img {
+  width: 145px; 	    
+  height: 140px;
+}
+
+.loading h4 {
+  margin-top: -5px;
+}
+
+.menu {
+  position: fixed;
+  bottom: 0;
+}
+
+.nav-link {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  height: 60px !important;
+	   
+}
+
+.head-card {
+  margin-top: -10px;
+  margin-bottom: 10px;
+  width:100%;
+  display: flex;
+  align-items: center;
+  line-height: 0.9;
+}
+
+.head-card img {
+  height: 40px;
+  width: 40px !important;
+}
+
+.head-card b, .head-card small {
+}
+
+.head-card small {
+  color: grey;
+}
+
+.card  {     	  
+/*  font-family: 'Sofia', cursive; */
+  font-family: 'VT323', monospace;
+}
