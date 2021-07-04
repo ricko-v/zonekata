@@ -7,7 +7,7 @@ const routes = [
 ]
 
 const router = new VueRouter({
-  mode: "hash",
+  mode: "history",
   routes
 })
 
