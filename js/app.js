@@ -65,7 +65,7 @@ const cari = {
             <div class="card-stacked">
                <div class="card-content">
                   <div class="head-card">
-                     <img src="../img/logo.png">
+                     <img src="img/logo.png">
                      <div class="col s10">
 			<b>{{ h.nama.replace(/[_]/g," ") }}</b>
                         <br>
@@ -316,7 +316,7 @@ const load = {
 <section class="loading">
    <div>
       <center>
-         <img src="../img/logo.png" class="responsive-img">
+         <img src="img/logo.png" class="responsive-img">
          <h4 class="white-text">ZoneKata</h4>
       </center>
    </div>
@@ -351,7 +351,7 @@ const home = {
             <div class="card-stacked">
                <div class="card-content">
                   <div class="head-card">
-                     <img src="../img/logo.png">
+                     <img src="img/logo.png">
                      <div class="col s10">
                         <b>{{ h.nama.replace(/[_]/g," ") }}</b>
                         <br>
@@ -690,7 +690,7 @@ const bookmark = {
             <div class="card-stacked">
                <div class="card-content">
                   <div class="head-card">
-                     <img src="../img/logo.png">
+                     <img src="img/logo.png">
                      <div class="col s10">
                         <b>{{ h.nama.replace(/[_]/g," ") }}</b>
                         <br>
