@@ -4,7 +4,7 @@ Sebuah zona yang berisi tentang kata-kata dari berbagai tokoh terkenal.
 # live demo
 Website: [zonekata](https://ricko-v.github.io/zonekata)
 
-Download versi apk: [download](https://raw.githubusercontent.com/ricko-v/zonekata/master/ZonaKata.apk)
+Download versi apk: [download](https://github.com/ricko-v/zonekata/releases/download/apk/ZonaKata.apk)
 
 # Install
 `
